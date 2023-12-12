@@ -1,2 +1,2 @@
-# Sequence_Model
-Sequence Model and related algorithm
+# NLP
+NLP application and related algorithm
